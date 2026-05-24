@@ -5,10 +5,10 @@
 {
     "name": "Employee Personal Information From Home Address",
     "version": "14.0.1.4.0",
-    "website": "https://simetri-sinergi.id",
+    "website": "https://github.com/simetri-sinergi-id/ssi-hr",
     "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
     "license": "AGPL-3",
-    "installable": True,
+    "installable": False,
     "auto_install": True,
     "depends": [
         "ssi_partner",
