@@ -5,10 +5,10 @@
 {
     "name": "Human Resource",
     "version": "14.0.3.3.0",
-    "website": "https://simetri-sinergi.id",
+    "website": "https://github.com/simetri-sinergi-id/ssi-hr",
     "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
     "license": "AGPL-3",
-    "installable": True,
+    "installable": False,
     "application": True,
     "auto_install": True,
     "depends": [
